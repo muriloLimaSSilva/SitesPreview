@@ -1,0 +1,41 @@
+body {
+    background: #d2d2c1 url('imagens/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: #828271;
+    font-size: 1.2cm;
+}
+a {
+    color:#4b566a;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.container {
+    width: 900px;
+}
+
+.bgImages {
+    background-color: #828271;
+    padding: 5px;
+}
+
+.copyright {
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+#pBackground {
+    background-color: #F0F8FF; 
+    padding: 10px;
+    
+}
+
+#topBackground {
+    background-color: #c4c5b2;
+    padding: 18px;
+    
+}
